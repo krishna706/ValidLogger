@@ -15,4 +15,8 @@ public class Helper {
     public static func TestHelper() -> String {
         return "Testing VALID LOGGER"
     }
+    
+    public static func calculate() -> Int {
+        return 1050
+    }
 }
