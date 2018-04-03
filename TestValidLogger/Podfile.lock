@@ -1,0 +1,16 @@
+PODS:
+  - ValidLogger (1.0.0)
+
+DEPENDENCIES:
+  - ValidLogger (from `../ValidLogger/ValidLogger/`)
+
+EXTERNAL SOURCES:
+  ValidLogger:
+    :path: ../ValidLogger/ValidLogger/
+
+SPEC CHECKSUMS:
+  ValidLogger: 3f959157e0d8535a005f2baeba6d62bbad5fcfc9
+
+PODFILE CHECKSUM: 59f05d3550bd08270a4c29644b35e574ff6c6c43
+
+COCOAPODS: 1.3.1

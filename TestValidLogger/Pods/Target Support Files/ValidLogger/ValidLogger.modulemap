@@ -1,0 +1,6 @@
+framework module ValidLogger {
+  umbrella header "ValidLogger-umbrella.h"
+
+  export *
+  module * { export * }
+}
